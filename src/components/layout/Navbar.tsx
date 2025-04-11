@@ -39,6 +39,9 @@ const Navbar = () => {
           <Link to="/roster" className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground">
             Roster
           </Link>
+          <Link to="/notes" className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground">
+            Notes
+          </Link>
           <Link to="/staff" className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground">
             Staff
           </Link>
